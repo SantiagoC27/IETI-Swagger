@@ -46,4 +46,11 @@ Good code is about details. Follow each step carefully and make sure your code i
 
 🗣️ "I hear and I forget I see and I remember I do and I understand." Confucius
 
+## Swagger
+Para usar el swagger una vez iniciada la app con el comando
+```
+./gradlew bootRun
+```
+Ingresar a la URL:
+http://localhost:8080/swagger-ui/index.html#/
 
